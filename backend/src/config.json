@@ -1,0 +1,3 @@
+{
+    "database": "mongodb://glhrme:156294Gui@memepi-shard-00-00-w9wrm.gcp.mongodb.net:27017,memepi-shard-00-01-w9wrm.gcp.mongodb.net:27017,memepi-shard-00-02-w9wrm.gcp.mongodb.net:27017/omnistack8?ssl=true&replicaSet=memepi-shard-0&authSource=admin&retryWrites=true&w=majority"
+}
